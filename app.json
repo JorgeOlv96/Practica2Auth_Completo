@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "RicknMortyApp",
+    "slug": "RicknMortyApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logorym.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/portal1.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logorym.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
